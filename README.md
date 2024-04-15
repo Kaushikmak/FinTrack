@@ -3,7 +3,11 @@
 A new Flutter project.
 
 ## Screenshots
-<img src="https://drive.google.com/file/d/1todlztLTHh1qrFbi7NJD0rhBG7ql2j9d/view?usp=drive_link" width="128"/>
+![Screenshot_20240415-215020](https://github.com/Kaushikmak/FinTrack/assets/96010041/bbdc6df8-9624-4d69-8317-b259b5c5078f)
+![Screenshot_20240415-215026](https://github.com/Kaushikmak/FinTrack/assets/96010041/7ef89090-ac20-422a-8e22-f9b097df7650)
+![Screenshot_20240415-215031](https://github.com/Kaushikmak/FinTrack/assets/96010041/f764822a-343d-4015-85c0-56bb784498d3)
+![Screenshot_20240415-214959](https://github.com/Kaushikmak/FinTrack/assets/96010041/5ab8a9a0-c4a2-4900-b10d-29674b45c11d)
+
 
 ## Getting Started
 
