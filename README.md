@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Screenshots
-![alt text](https://drive.google.com/file/d/1todlztLTHh1qrFbi7NJD0rhBG7ql2j9d/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1todlztLTHh1qrFbi7NJD0rhBG7ql2j9d/view?usp=drive_link" width="128"/>
 
 ## Getting Started
 
