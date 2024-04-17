@@ -1,6 +1,6 @@
 # finTrack
 
-A new Flutter project.
+Welcome to FinTrack, your simple and intuitive financial tracking app built with Flutter. FinTrack is designed to help you effortlessly note down and track your finances, allowing you to maintain better control over your expenses and savings.
 
 ## Screenshots
 Home | expense view (pie chart view)
@@ -10,16 +10,3 @@ Track drawer | Category
 ![Screenshot_20240415-215031](https://github.com/Kaushikmak/FinTrack/assets/96010041/f764822a-343d-4015-85c0-56bb784498d3) | ![Screenshot_20240415-214959](https://github.com/Kaushikmak/FinTrack/assets/96010041/5ab8a9a0-c4a2-4900-b10d-29674b45c11d)
 
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
